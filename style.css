@@ -6,6 +6,8 @@ background-color:#fff8dc;
 }
 .nav {
 background-color:#5e3b1d;
+padding-top: 0px;
+margin-top: 0px;
 }
 .nav a{
 font-size:40px;
@@ -40,6 +42,9 @@ color: #fdf6e3;
 .main{
 background-color: #f5e9d3;
  color: #5e3b1d;
+ margin-top:0px;
+ margin-bottom:0px;
+ padding-top: 0px;
 }
 .main a{
 color:#b75c00;
